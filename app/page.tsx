@@ -5,6 +5,7 @@ import DateCard from "@/components/DateCard";
 import TravelNotice from "@/components/TravelNotice";
 import LastUpdated from "@/components/LastUpdated";
 import RefreshButton from "@/components/RefreshButton";
+import ThemeToggle from "@/components/ThemeToggle";
 
 // ISR: revalidate every hour
 export const revalidate = 3600;
@@ -35,9 +36,12 @@ export default function Home() {
               Unofficial personal dashboard &mdash; always verify on official sites
             </p>
           </div>
-          <span className="mt-1 rounded border border-gray-300 px-2 py-1 text-xs text-gray-500 font-medium uppercase tracking-wide dark:border-gray-700">
-            Unofficial
-          </span>
+          <div className="flex items-center gap-2 mt-1">
+            <ThemeToggle />
+            <span className="rounded border border-gray-300 px-2 py-1 text-xs text-gray-500 font-medium uppercase tracking-wide dark:border-gray-700">
+              Unofficial
+            </span>
+          </div>
         </div>
         <div className="mt-3 flex items-center gap-3">
           <LastUpdated lastScraped={data.lastScraped} />
@@ -93,17 +97,16 @@ export default function Home() {
             irishimmigration.ie &rarr;
           </a>
         </div>
-        <p className="mb-3 text-xs text-gray-500 dark:text-gray-600">
-          INIS publishes one general renewal date for all IRP types — no per-stamp breakdown currently.
-        </p>
         <div className="grid grid-cols-1 gap-3 sm:grid-cols-2">
-          {irpRenewals.categories.map((cat) => (
-            <DateCard
-              key={cat.id}
-              category={cat}
-              highlight={HIGHLIGHTED_IDS.has(cat.id)}
-            />
-          ))}
+          {irpRenewals.categories
+            .filter((cat) => cat.id === "stamp-1g")
+            .map((cat) => (
+              <DateCard
+                key={cat.id}
+                category={cat}
+                highlight={HIGHLIGHTED_IDS.has(cat.id)}
+              />
+            ))}
         </div>
       </section>
 
