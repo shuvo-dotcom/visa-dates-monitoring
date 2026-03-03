@@ -28,7 +28,7 @@ export default function LastUpdated({ lastScraped }: LastUpdatedProps) {
   });
 
   return (
-    <div className="flex items-center gap-2 text-sm text-gray-400">
+    <div className="flex items-center gap-2 text-sm text-gray-500 dark:text-gray-400">
       <span
         className="inline-block h-2 w-2 rounded-full bg-green-500 animate-pulse"
         aria-hidden="true"
@@ -39,7 +39,7 @@ export default function LastUpdated({ lastScraped }: LastUpdatedProps) {
           {relative}
         </time>
         {" · "}
-        <span className="text-gray-500">INIS updates Tuesdays</span>
+        <span className="text-gray-400 dark:text-gray-500">INIS updates Tuesdays</span>
       </span>
     </div>
   );

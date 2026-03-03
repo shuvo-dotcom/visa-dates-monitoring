@@ -40,17 +40,17 @@ function staleness(dateStr: string): "fresh" | "moderate" | "stale" | "unknown" 
 }
 
 const stalenessColors = {
-  fresh: "text-green-400",
-  moderate: "text-yellow-400",
-  stale: "text-red-400",
-  unknown: "text-gray-400",
+  fresh: "text-green-600 dark:text-green-400",
+  moderate: "text-amber-600 dark:text-yellow-400",
+  stale: "text-red-600 dark:text-red-400",
+  unknown: "text-gray-500 dark:text-gray-400",
 };
 
 const stalenesBorderColors = {
-  fresh: "border-green-800/50",
-  moderate: "border-yellow-800/50",
-  stale: "border-red-900/50",
-  unknown: "border-gray-700",
+  fresh: "border-green-200 dark:border-green-800/50",
+  moderate: "border-amber-200 dark:border-yellow-800/50",
+  stale: "border-red-200 dark:border-red-900/50",
+  unknown: "border-gray-200 dark:border-gray-700",
 };
 
 export default function DateCard({ category, highlight = false }: DateCardProps) {
@@ -58,7 +58,7 @@ export default function DateCard({ category, highlight = false }: DateCardProps)
   const relativeChange = formatRelativeChange(category.lastChanged);
 
   const borderClass = highlight
-    ? "border-blue-600/60"
+    ? "border-blue-300 dark:border-blue-600/60"
     : stalenesBorderColors[level];
 
   const isPending =
@@ -67,19 +67,19 @@ export default function DateCard({ category, highlight = false }: DateCardProps)
 
   return (
     <div
-      className={`relative rounded-xl border ${borderClass} bg-gray-900 p-4 flex flex-col gap-1 transition-all hover:bg-gray-800/80`}
+      className={`relative rounded-xl border ${borderClass} bg-white p-4 flex flex-col gap-1 transition-all hover:bg-gray-50 shadow-sm dark:bg-gray-900 dark:hover:bg-gray-800/80 dark:shadow-none`}
     >
       {highlight && (
-        <span className="absolute top-3 right-3 inline-block rounded px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wide bg-blue-700/40 text-blue-300">
+        <span className="absolute top-3 right-3 inline-block rounded px-1.5 py-0.5 text-[10px] font-bold uppercase tracking-wide bg-blue-100 text-blue-700 dark:bg-blue-700/40 dark:text-blue-300">
           You
         </span>
       )}
-      <p className="text-xs font-medium uppercase tracking-wider text-gray-500 pr-8">
+      <p className="text-xs font-medium uppercase tracking-wider text-gray-500 pr-8 dark:text-gray-500">
         {category.label}
       </p>
 
       {isPending ? (
-        <p className="text-lg font-semibold text-gray-500 italic">
+        <p className="text-lg font-semibold text-gray-400 italic dark:text-gray-500">
           Pending scrape
         </p>
       ) : (
@@ -91,7 +91,7 @@ export default function DateCard({ category, highlight = false }: DateCardProps)
         </p>
       )}
 
-      <p className="text-xs text-gray-600 mt-auto pt-1">
+      <p className="text-xs text-gray-400 mt-auto pt-1 dark:text-gray-600">
         {relativeChange}
       </p>
     </div>
