@@ -1,15 +1,15 @@
 {
-  "lastScraped": "2026-03-10T09:52:12.280Z",
+  "lastScraped": "2026-03-17T09:59:38.606Z",
   "sections": {
     "employmentPermits": {
       "sourceUrl": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/",
-      "lastUpdatedBySource": "2026-03-10",
+      "lastUpdatedBySource": "2026-03-17",
       "categories": [
         {
           "id": "csep-new",
           "label": "Critical Skills EP (New)",
-          "processingDate": "24 February 2026",
-          "lastChanged": "2026-03-10T09:52:06.482Z"
+          "processingDate": "27 February 2026",
+          "lastChanged": "2026-03-17T09:59:32.814Z"
         },
         {
           "id": "csep-reviews",
@@ -20,46 +20,46 @@
         {
           "id": "new-all-other",
           "label": "New Applications (All other types)",
-          "processingDate": "15 January  2026",
-          "lastChanged": "2026-03-03T11:30:11.577Z"
+          "processingDate": "27 January  2026",
+          "lastChanged": "2026-03-17T09:59:32.814Z"
         },
         {
           "id": "ict-new",
           "label": "ICT Permit (New)",
-          "processingDate": "03 February  2026",
-          "lastChanged": "2026-03-10T09:52:06.482Z"
+          "processingDate": "05 February  2026",
+          "lastChanged": "2026-03-17T09:59:32.814Z"
         },
         {
           "id": "ict-renewal",
           "label": "ICT Permit (Renewal)",
-          "processingDate": "15 December 2025",
-          "lastChanged": "2026-03-10T09:52:06.482Z"
+          "processingDate": "22 December 2025",
+          "lastChanged": "2026-03-17T09:59:32.814Z"
         },
         {
           "id": "renewal-all",
           "label": "Renewal Applications (All types)",
-          "processingDate": "17 December 2025",
-          "lastChanged": "2026-03-10T09:52:06.482Z"
+          "processingDate": "22 December 2025",
+          "lastChanged": "2026-03-17T09:59:32.814Z"
         }
       ]
     },
     "irpRenewals": {
       "sourceUrl": "https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/renewing-your-registration-permission-if-you-live-in-the-republic-of-ireland/",
-      "lastUpdatedBySource": "2026-03-10",
+      "lastUpdatedBySource": "2026-03-17",
       "categories": [
         {
           "id": "stamp-1g",
           "label": "Stamp 1G Renewal",
-          "processingDate": "13 December 2025",
-          "rawText": "are currently processing applications for renewal submitted on 13/12/2025 (Note: some applications submitted prior to this date may still be in the process of being worked on).\nIf you have submitted an application after this date, it is currently que",
-          "lastChanged": "2026-03-10T09:52:12.252Z"
+          "processingDate": "22 December 2025",
+          "rawText": "are currently processing applications for renewal submitted on 22/12/2025 (Note: some applications submitted prior to this date may still be in the process of being worked on).\nIf you have submitted an application after this date, it is currently que",
+          "lastChanged": "2026-03-17T09:59:38.577Z"
         },
         {
           "id": "csep-review",
           "label": "CSEP Review (IRP)",
-          "processingDate": "13 December 2025",
-          "rawText": "are currently processing applications for renewal submitted on 13/12/2025 (Note: some applications submitted prior to this date may still be in the process of being worked on).\nIf you have submitted an application after this date, it is currently que",
-          "lastChanged": "2026-03-10T09:52:12.252Z"
+          "processingDate": "22 December 2025",
+          "rawText": "are currently processing applications for renewal submitted on 22/12/2025 (Note: some applications submitted prior to this date may still be in the process of being worked on).\nIf you have submitted an application after this date, it is currently que",
+          "lastChanged": "2026-03-17T09:59:38.577Z"
         }
       ]
     },
