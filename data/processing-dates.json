@@ -1,65 +1,65 @@
 {
-  "lastScraped": "2026-04-14T10:18:43.579Z",
+  "lastScraped": "2026-04-21T10:20:54.344Z",
   "sections": {
     "employmentPermits": {
       "sourceUrl": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/",
-      "lastUpdatedBySource": "2026-04-14",
+      "lastUpdatedBySource": "2026-04-21",
       "categories": [
         {
           "id": "csep-new",
           "label": "Critical Skills EP (New)",
-          "processingDate": "02 April 2026",
-          "lastChanged": "2026-04-14T10:18:39.425Z"
+          "processingDate": "08 April 2026",
+          "lastChanged": "2026-04-21T10:20:49.401Z"
         },
         {
           "id": "csep-reviews",
           "label": "EP Reviews",
-          "processingDate": "21 November 2025",
-          "lastChanged": "2026-04-14T10:18:39.425Z"
+          "processingDate": "24 November 2025",
+          "lastChanged": "2026-04-21T10:20:49.401Z"
         },
         {
           "id": "new-all-other",
           "label": "New Applications (All other types)",
-          "processingDate": "10 February  2026",
-          "lastChanged": "2026-03-31T10:08:59.001Z"
+          "processingDate": "25 February  2026",
+          "lastChanged": "2026-04-21T10:20:49.401Z"
         },
         {
           "id": "ict-new",
           "label": "ICT Permit (New)",
-          "processingDate": "25 February  2026",
-          "lastChanged": "2026-04-14T10:18:39.425Z"
+          "processingDate": "10 March  2026",
+          "lastChanged": "2026-04-21T10:20:49.401Z"
         },
         {
           "id": "ict-renewal",
           "label": "ICT Permit (Renewal)",
-          "processingDate": "04 February 2026",
-          "lastChanged": "2026-04-14T10:18:39.425Z"
+          "processingDate": "10 February 2026",
+          "lastChanged": "2026-04-21T10:20:49.401Z"
         },
         {
           "id": "renewal-all",
           "label": "Renewal Applications (All types)",
-          "processingDate": "05 February 2026",
-          "lastChanged": "2026-04-14T10:18:39.425Z"
+          "processingDate": "10 February 2026",
+          "lastChanged": "2026-04-21T10:20:49.401Z"
         }
       ]
     },
     "irpRenewals": {
       "sourceUrl": "https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/renewing-your-registration-permission-if-you-live-in-the-republic-of-ireland/",
-      "lastUpdatedBySource": "2026-04-14",
+      "lastUpdatedBySource": "2026-04-21",
       "categories": [
         {
           "id": "stamp-1g",
           "label": "Stamp 1G Renewal",
-          "processingDate": "04 February 2026",
-          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t04/02/2026\n1G\t13/01/2026\n2, 2A, 1A\t12/01/2026\n4\t14/01/2026\nAll other categories\t14/01/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
-          "lastChanged": "2026-04-14T10:18:43.549Z"
+          "processingDate": "20 February 2026",
+          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t20/02/2026\n1G\t20/01/2026\n2, 2A, 1A\t15/01/2026\n4\t24/01/2026\nAll other categories\t15/01/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
+          "lastChanged": "2026-04-21T10:20:54.314Z"
         },
         {
           "id": "csep-review",
           "label": "CSEP Review (IRP)",
-          "processingDate": "04 February 2026",
-          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t04/02/2026\n1G\t13/01/2026\n2, 2A, 1A\t12/01/2026\n4\t14/01/2026\nAll other categories\t14/01/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
-          "lastChanged": "2026-04-14T10:18:43.549Z"
+          "processingDate": "20 February 2026",
+          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t20/02/2026\n1G\t20/01/2026\n2, 2A, 1A\t15/01/2026\n4\t24/01/2026\nAll other categories\t15/01/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
+          "lastChanged": "2026-04-21T10:20:54.314Z"
         }
       ]
     },
