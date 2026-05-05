@@ -1,15 +1,15 @@
 {
-  "lastScraped": "2026-04-28T11:08:21.486Z",
+  "lastScraped": "2026-05-05T10:49:44.739Z",
   "sections": {
     "employmentPermits": {
       "sourceUrl": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/",
-      "lastUpdatedBySource": "2026-04-28",
+      "lastUpdatedBySource": "2026-05-05",
       "categories": [
         {
           "id": "csep-new",
           "label": "Critical Skills EP (New)",
-          "processingDate": "09 April 2026",
-          "lastChanged": "2026-04-28T11:08:16.730Z"
+          "processingDate": "14 April 2026",
+          "lastChanged": "2026-05-05T10:49:38.524Z"
         },
         {
           "id": "csep-reviews",
@@ -20,32 +20,32 @@
         {
           "id": "new-all-other",
           "label": "New Applications (All other types)",
-          "processingDate": "27 February  2026",
-          "lastChanged": "2026-04-28T11:08:16.730Z"
+          "processingDate": "05 March 2026",
+          "lastChanged": "2026-05-05T10:49:38.524Z"
         },
         {
           "id": "ict-new",
           "label": "ICT Permit (New)",
-          "processingDate": "13 March  2026",
-          "lastChanged": "2026-04-28T11:08:16.730Z"
+          "processingDate": "27 March  2026",
+          "lastChanged": "2026-05-05T10:49:38.524Z"
         },
         {
           "id": "ict-renewal",
           "label": "ICT Permit (Renewal)",
-          "processingDate": "16 February 2026",
-          "lastChanged": "2026-04-28T11:08:16.730Z"
+          "processingDate": "23 February 2026",
+          "lastChanged": "2026-05-05T10:49:38.524Z"
         },
         {
           "id": "renewal-all",
           "label": "Renewal Applications (All types)",
-          "processingDate": "14 February 2026",
-          "lastChanged": "2026-04-28T11:08:16.730Z"
+          "processingDate": "19 February 2026",
+          "lastChanged": "2026-05-05T10:49:38.524Z"
         }
       ]
     },
     "irpRenewals": {
       "sourceUrl": "https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/renewing-your-registration-permission-if-you-live-in-the-republic-of-ireland/",
-      "lastUpdatedBySource": "2026-04-28",
+      "lastUpdatedBySource": "2026-05-05",
       "categories": [
         {
           "id": "stamp-1g",
