@@ -1,9 +1,9 @@
 {
-  "lastScraped": "2026-05-05T10:49:44.739Z",
+  "lastScraped": "2026-05-12T11:23:29.643Z",
   "sections": {
     "employmentPermits": {
       "sourceUrl": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/",
-      "lastUpdatedBySource": "2026-05-05",
+      "lastUpdatedBySource": "2026-05-12",
       "categories": [
         {
           "id": "csep-new",
@@ -45,21 +45,21 @@
     },
     "irpRenewals": {
       "sourceUrl": "https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/renewing-your-registration-permission-if-you-live-in-the-republic-of-ireland/",
-      "lastUpdatedBySource": "2026-05-05",
+      "lastUpdatedBySource": "2026-05-12",
       "categories": [
         {
           "id": "stamp-1g",
           "label": "Stamp 1G Renewal",
-          "processingDate": "27 February 2026",
-          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t27/02/2026\n1G\t26/01/2026\n2, 2A, 1A\t20/01/2026\n4\t29/01/2026\nAll other categories\t19/01/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
-          "lastChanged": "2026-04-28T11:08:21.455Z"
+          "processingDate": "06 March 2026",
+          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t06/03/2026\n1G\t07/02/2026\n2, 2A, 1A\t04/02/2026\n4\t09/02/2026\nAll other categories\t12/02/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
+          "lastChanged": "2026-05-12T11:23:29.614Z"
         },
         {
           "id": "csep-review",
           "label": "CSEP Review (IRP)",
-          "processingDate": "27 February 2026",
-          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t27/02/2026\n1G\t26/01/2026\n2, 2A, 1A\t20/01/2026\n4\t29/01/2026\nAll other categories\t19/01/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
-          "lastChanged": "2026-04-28T11:08:21.455Z"
+          "processingDate": "06 March 2026",
+          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t06/03/2026\n1G\t07/02/2026\n2, 2A, 1A\t04/02/2026\n4\t09/02/2026\nAll other categories\t12/02/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
+          "lastChanged": "2026-05-12T11:23:29.614Z"
         }
       ]
     },
