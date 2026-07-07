@@ -1,15 +1,15 @@
 {
-  "lastScraped": "2026-06-30T11:47:05.165Z",
+  "lastScraped": "2026-07-07T11:54:52.482Z",
   "sections": {
     "employmentPermits": {
       "sourceUrl": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/",
-      "lastUpdatedBySource": "2026-06-30",
+      "lastUpdatedBySource": "2026-07-07",
       "categories": [
         {
           "id": "csep-new",
           "label": "Critical Skills EP (New)",
-          "processingDate": "15 June 2026",
-          "lastChanged": "2026-06-30T11:46:59.908Z"
+          "processingDate": "17 June 2026",
+          "lastChanged": "2026-07-07T11:54:46.673Z"
         },
         {
           "id": "csep-reviews",
@@ -20,46 +20,46 @@
         {
           "id": "new-all-other",
           "label": "New Applications (All other types)",
-          "processingDate": "15 May 2026",
-          "lastChanged": "2026-06-30T11:46:59.908Z"
+          "processingDate": "21 May 2026",
+          "lastChanged": "2026-07-07T11:54:46.673Z"
         },
         {
           "id": "ict-new",
           "label": "ICT Permit (New)",
-          "processingDate": "15 May 2026",
-          "lastChanged": "2026-06-30T11:46:59.908Z"
+          "processingDate": "22 May 2026",
+          "lastChanged": "2026-07-07T11:54:46.673Z"
         },
         {
           "id": "ict-renewal",
           "label": "ICT Permit (Renewal)",
-          "processingDate": "26 March 2026",
-          "lastChanged": "2026-06-30T11:46:59.908Z"
+          "processingDate": "30 March 2026",
+          "lastChanged": "2026-07-07T11:54:46.673Z"
         },
         {
           "id": "renewal-all",
           "label": "Renewal Applications (All types)",
-          "processingDate": "25 March 2026",
-          "lastChanged": "2026-06-30T11:46:59.908Z"
+          "processingDate": "27 March 2026",
+          "lastChanged": "2026-07-07T11:54:46.673Z"
         }
       ]
     },
     "irpRenewals": {
       "sourceUrl": "https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/renewing-your-registration-permission-if-you-live-in-the-republic-of-ireland/",
-      "lastUpdatedBySource": "2026-06-30",
+      "lastUpdatedBySource": "2026-07-07",
       "categories": [
         {
           "id": "stamp-1g",
           "label": "Stamp 1G Renewal",
-          "processingDate": "25 May 2026",
-          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t25/05/2026\n1G\t15/04/2026\n2, 2A, 1A\t27/03/2026\n4\t05/03/2026\nAll other categories\t17/04/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
-          "lastChanged": "2026-06-30T11:47:05.138Z"
+          "processingDate": "30 May 2026",
+          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t30/05/2026\n1G\t16/04/2026\n2, 2A, 1A\t05/04/2026\n4\t07/03/2026\nAll other categories\t22/04/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
+          "lastChanged": "2026-07-07T11:54:52.453Z"
         },
         {
           "id": "csep-review",
           "label": "CSEP Review (IRP)",
-          "processingDate": "25 May 2026",
-          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t25/05/2026\n1G\t15/04/2026\n2, 2A, 1A\t27/03/2026\n4\t05/03/2026\nAll other categories\t17/04/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
-          "lastChanged": "2026-06-30T11:47:05.138Z"
+          "processingDate": "30 May 2026",
+          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t30/05/2026\n1G\t16/04/2026\n2, 2A, 1A\t05/04/2026\n4\t07/03/2026\nAll other categories\t22/04/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
+          "lastChanged": "2026-07-07T11:54:52.453Z"
         }
       ]
     },
