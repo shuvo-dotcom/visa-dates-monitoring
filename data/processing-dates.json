@@ -1,15 +1,15 @@
 {
-  "lastScraped": "2026-08-04T11:28:07.587Z",
+  "lastScraped": "2026-08-11T10:04:13.439Z",
   "sections": {
     "employmentPermits": {
       "sourceUrl": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/",
-      "lastUpdatedBySource": "2026-08-04",
+      "lastUpdatedBySource": "2026-08-11",
       "categories": [
         {
           "id": "csep-new",
           "label": "Critical Skills EP (New)",
-          "processingDate": "17 July 2026",
-          "lastChanged": "2026-08-04T11:27:06.756Z"
+          "processingDate": "30 July 2026",
+          "lastChanged": "2026-08-11T10:03:12.057Z"
         },
         {
           "id": "csep-reviews",
@@ -20,26 +20,26 @@
         {
           "id": "new-all-other",
           "label": "New Applications (All other types)",
-          "processingDate": "26 Jun 2026",
-          "lastChanged": "2026-08-04T11:27:06.756Z"
+          "processingDate": "21 July 2026",
+          "lastChanged": "2026-08-11T10:03:12.057Z"
         },
         {
           "id": "ict-new",
           "label": "ICT Permit (New)",
-          "processingDate": "03 July 2026",
-          "lastChanged": "2026-08-04T11:27:06.756Z"
+          "processingDate": "7 July 2026",
+          "lastChanged": "2026-08-11T10:03:12.057Z"
         },
         {
           "id": "ict-renewal",
           "label": "ICT Permit (Renewal)",
-          "processingDate": "21 April 2026",
-          "lastChanged": "2026-08-04T11:27:06.756Z"
+          "processingDate": "28 April 2026",
+          "lastChanged": "2026-08-11T10:03:12.057Z"
         },
         {
           "id": "renewal-all",
           "label": "Renewal Applications (All types)",
-          "processingDate": "20 April 2026",
-          "lastChanged": "2026-08-04T11:27:06.756Z"
+          "processingDate": "28 April 2026",
+          "lastChanged": "2026-08-11T10:03:12.057Z"
         }
       ]
     },
