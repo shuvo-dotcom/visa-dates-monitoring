@@ -1,21 +1,21 @@
 {
-  "lastScraped": "2026-08-11T10:04:13.439Z",
+  "lastScraped": "2026-08-18T09:37:08.727Z",
   "sections": {
     "employmentPermits": {
       "sourceUrl": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/",
-      "lastUpdatedBySource": "2026-08-11",
+      "lastUpdatedBySource": "2026-08-18",
       "categories": [
         {
           "id": "csep-new",
           "label": "Critical Skills EP (New)",
-          "processingDate": "30 July 2026",
-          "lastChanged": "2026-08-11T10:03:12.057Z"
+          "processingDate": "10 August 2026",
+          "lastChanged": "2026-08-18T09:37:02.245Z"
         },
         {
           "id": "csep-reviews",
           "label": "EP Reviews",
-          "processingDate": "5 January 2026",
-          "lastChanged": "2026-08-04T11:27:06.756Z"
+          "processingDate": "6 January 2026",
+          "lastChanged": "2026-08-18T09:37:02.245Z"
         },
         {
           "id": "new-all-other",
@@ -26,40 +26,40 @@
         {
           "id": "ict-new",
           "label": "ICT Permit (New)",
-          "processingDate": "7 July 2026",
-          "lastChanged": "2026-08-11T10:03:12.057Z"
+          "processingDate": "13 July 2026",
+          "lastChanged": "2026-08-18T09:37:02.245Z"
         },
         {
           "id": "ict-renewal",
           "label": "ICT Permit (Renewal)",
-          "processingDate": "28 April 2026",
-          "lastChanged": "2026-08-11T10:03:12.057Z"
+          "processingDate": "8 May 2026",
+          "lastChanged": "2026-08-18T09:37:02.245Z"
         },
         {
           "id": "renewal-all",
           "label": "Renewal Applications (All types)",
-          "processingDate": "28 April 2026",
-          "lastChanged": "2026-08-11T10:03:12.057Z"
+          "processingDate": "7 May 2026",
+          "lastChanged": "2026-08-18T09:37:02.245Z"
         }
       ]
     },
     "irpRenewals": {
       "sourceUrl": "https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/renewing-your-registration-permission-if-you-live-in-the-republic-of-ireland/",
-      "lastUpdatedBySource": "2026-07-21",
+      "lastUpdatedBySource": "2026-08-18",
       "categories": [
         {
           "id": "stamp-1g",
           "label": "Stamp 1G Renewal",
-          "processingDate": "09 July 2026",
-          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t09/07/2026\n1G\t20/04/2026\n2, 2A, 1A\t25/04/2026\n4\t14/03/2026\nAll other categories\t28/04/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
-          "lastChanged": "2026-07-21T11:12:08.308Z"
+          "processingDate": "13 July 2026",
+          "rawText": "of their IRP Card may be of assistance.\n\nUpdate – 13 July 2026: As a temporary measure, while current application backlogs are being addressed, please see details of an interim notice to employers valid until 31 August 2026.\n\nInternational Travel Con",
+          "lastChanged": "2026-08-18T09:37:08.694Z"
         },
         {
           "id": "csep-review",
           "label": "CSEP Review (IRP)",
-          "processingDate": "09 July 2026",
-          "rawText": "ked on.\n\nStamp Category\n\t\nSubmission Date*\n\n1, 1H\t09/07/2026\n1G\t20/04/2026\n2, 2A, 1A\t25/04/2026\n4\t14/03/2026\nAll other categories\t28/04/2026\nShowing 1 to 5 of 5 entries\n\n*Submission Dates are updated weekly\n\nIf you have submitted an application after",
-          "lastChanged": "2026-07-21T11:12:08.308Z"
+          "processingDate": "13 July 2026",
+          "rawText": "of their IRP Card may be of assistance.\n\nUpdate – 13 July 2026: As a temporary measure, while current application backlogs are being addressed, please see details of an interim notice to employers valid until 31 August 2026.\n\nInternational Travel Con",
+          "lastChanged": "2026-08-18T09:37:08.694Z"
         }
       ]
     },
