@@ -1,15 +1,15 @@
 {
-  "lastScraped": "2026-09-01T14:01:27.596Z",
+  "lastScraped": "2026-09-08T13:25:12.687Z",
   "sections": {
     "employmentPermits": {
       "sourceUrl": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/",
-      "lastUpdatedBySource": "2026-09-01",
+      "lastUpdatedBySource": "2026-09-08",
       "categories": [
         {
           "id": "csep-new",
           "label": "Critical Skills EP (New)",
-          "processingDate": "24 August 2026",
-          "lastChanged": "2026-09-01T14:01:22.885Z"
+          "processingDate": "26 August 2026",
+          "lastChanged": "2026-09-08T13:25:07.287Z"
         },
         {
           "id": "csep-reviews",
@@ -26,26 +26,26 @@
         {
           "id": "ict-new",
           "label": "ICT Permit (New)",
-          "processingDate": "11 August 2026",
-          "lastChanged": "2026-09-01T14:01:22.885Z"
+          "processingDate": "25 August 2026",
+          "lastChanged": "2026-09-08T13:25:07.287Z"
         },
         {
           "id": "ict-renewal",
           "label": "ICT Permit (Renewal)",
-          "processingDate": "09 June 2026",
-          "lastChanged": "2026-09-01T14:01:22.885Z"
+          "processingDate": "12 June 2026",
+          "lastChanged": "2026-09-08T13:25:07.287Z"
         },
         {
           "id": "renewal-all",
           "label": "Renewal Applications (All types)",
-          "processingDate": "08 June 2026",
-          "lastChanged": "2026-09-01T14:01:22.885Z"
+          "processingDate": "11 June 2026",
+          "lastChanged": "2026-09-08T13:25:07.287Z"
         }
       ]
     },
     "irpRenewals": {
       "sourceUrl": "https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/renewing-your-registration-permission-if-you-live-in-the-republic-of-ireland/",
-      "lastUpdatedBySource": "2026-09-01",
+      "lastUpdatedBySource": "2026-09-08",
       "categories": [
         {
           "id": "stamp-1g",
