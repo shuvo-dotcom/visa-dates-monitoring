@@ -1,21 +1,21 @@
 {
-  "lastScraped": "2026-09-15T14:14:34.131Z",
+  "lastScraped": "2026-09-22T13:57:47.119Z",
   "sections": {
     "employmentPermits": {
       "sourceUrl": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/",
-      "lastUpdatedBySource": "2026-09-15",
+      "lastUpdatedBySource": "2026-09-22",
       "categories": [
         {
           "id": "csep-new",
           "label": "Critical Skills EP (New)",
-          "processingDate": "3 September 2026",
-          "lastChanged": "2026-09-15T14:14:28.975Z"
+          "processingDate": "11 September 2026",
+          "lastChanged": "2026-09-22T13:57:42.977Z"
         },
         {
           "id": "csep-reviews",
           "label": "EP Reviews",
-          "processingDate": "24 January 2026",
-          "lastChanged": "2026-09-01T14:01:22.885Z"
+          "processingDate": "14 April 2026",
+          "lastChanged": "2026-09-22T13:57:42.977Z"
         },
         {
           "id": "new-all-other",
@@ -26,40 +26,40 @@
         {
           "id": "ict-new",
           "label": "ICT Permit (New)",
-          "processingDate": "8 September 2026",
-          "lastChanged": "2026-09-15T14:14:28.975Z"
+          "processingDate": "17 September 2026",
+          "lastChanged": "2026-09-22T13:57:42.977Z"
         },
         {
           "id": "ict-renewal",
           "label": "ICT Permit (Renewal)",
-          "processingDate": "23 June 2026",
-          "lastChanged": "2026-09-15T14:14:28.975Z"
+          "processingDate": "30 June 2026",
+          "lastChanged": "2026-09-22T13:57:42.977Z"
         },
         {
           "id": "renewal-all",
           "label": "Renewal Applications (All types)",
-          "processingDate": "22 June 2026",
-          "lastChanged": "2026-09-15T14:14:28.975Z"
+          "processingDate": "29 June 2026",
+          "lastChanged": "2026-09-22T13:57:42.977Z"
         }
       ]
     },
     "irpRenewals": {
       "sourceUrl": "https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/renewing-your-registration-permission-if-you-live-in-the-republic-of-ireland/",
-      "lastUpdatedBySource": "2026-09-15",
+      "lastUpdatedBySource": "2026-09-22",
       "categories": [
         {
           "id": "stamp-1g",
           "label": "Stamp 1G Renewal",
-          "processingDate": "13 July 2026",
-          "rawText": "of their IRP Card may be of assistance.\n\nUpdate – 13 July 2026: As a temporary measure, while current application backlogs are being addressed, please see details of an interim notice to employers valid until 31 August 2026.\n\nInternational Travel Con",
-          "lastChanged": "2026-08-18T09:37:08.694Z"
+          "processingDate": "31 August 2026",
+          "rawText": "processing resubmitted applications received from 31/08/2026.\nIf we receive no response to a request for further documents within 14 days, your application will be refused and closed.\n\nImmigration Service Delivery (ISD) is currently experiencing an e",
+          "lastChanged": "2026-09-22T13:57:47.090Z"
         },
         {
           "id": "csep-review",
           "label": "CSEP Review (IRP)",
-          "processingDate": "13 July 2026",
-          "rawText": "of their IRP Card may be of assistance.\n\nUpdate – 13 July 2026: As a temporary measure, while current application backlogs are being addressed, please see details of an interim notice to employers valid until 31 August 2026.\n\nInternational Travel Con",
-          "lastChanged": "2026-08-18T09:37:08.694Z"
+          "processingDate": "31 August 2026",
+          "rawText": "processing resubmitted applications received from 31/08/2026.\nIf we receive no response to a request for further documents within 14 days, your application will be refused and closed.\n\nImmigration Service Delivery (ISD) is currently experiencing an e",
+          "lastChanged": "2026-09-22T13:57:47.090Z"
         }
       ]
     },
