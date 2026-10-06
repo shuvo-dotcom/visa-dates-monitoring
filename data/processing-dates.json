@@ -1,15 +1,15 @@
 {
-  "lastScraped": "2026-09-29T15:31:15.951Z",
+  "lastScraped": "2026-10-06T15:46:34.175Z",
   "sections": {
     "employmentPermits": {
       "sourceUrl": "https://enterprise.gov.ie/en/what-we-do/workplace-and-skills/employment-permits/current-application-processing-dates/",
-      "lastUpdatedBySource": "2026-09-29",
+      "lastUpdatedBySource": "2026-10-06",
       "categories": [
         {
           "id": "csep-new",
           "label": "Critical Skills EP (New)",
-          "processingDate": "22 September 2026",
-          "lastChanged": "2026-09-29T15:31:10.552Z"
+          "processingDate": "29 September 2026",
+          "lastChanged": "2026-10-06T15:46:28.474Z"
         },
         {
           "id": "csep-reviews",
@@ -26,40 +26,40 @@
         {
           "id": "ict-new",
           "label": "ICT Permit (New)",
-          "processingDate": "29 September 2026",
-          "lastChanged": "2026-09-29T15:31:10.552Z"
+          "processingDate": "01 October 2026",
+          "lastChanged": "2026-10-06T15:46:28.474Z"
         },
         {
           "id": "ict-renewal",
           "label": "ICT Permit (Renewal)",
-          "processingDate": "07 July 2026",
-          "lastChanged": "2026-09-29T15:31:10.552Z"
+          "processingDate": "14 July 2026",
+          "lastChanged": "2026-10-06T15:46:28.474Z"
         },
         {
           "id": "renewal-all",
           "label": "Renewal Applications (All types)",
-          "processingDate": "06 July 2026",
-          "lastChanged": "2026-09-29T15:31:10.552Z"
+          "processingDate": "14 July 2026",
+          "lastChanged": "2026-10-06T15:46:28.474Z"
         }
       ]
     },
     "irpRenewals": {
       "sourceUrl": "https://www.irishimmigration.ie/registering-your-immigration-permission/how-to-renew-your-current-permission/renewing-your-registration-permission-if-you-live-in-the-republic-of-ireland/",
-      "lastUpdatedBySource": "2026-09-29",
+      "lastUpdatedBySource": "2026-10-06",
       "categories": [
         {
           "id": "stamp-1g",
           "label": "Stamp 1G Renewal",
-          "processingDate": "11 September 2026",
-          "rawText": "processing resubmitted applications received from 11/09/2026.\nIf we receive no response to a request for further documents within 14 days, your application will be refused and closed.\n\nImmigration Service Delivery (ISD) is currently experiencing an e",
-          "lastChanged": "2026-09-29T15:31:15.920Z"
+          "processingDate": "17 September 2026",
+          "rawText": "processing resubmitted applications received from 17/09/2026.\nIf we receive no response to a request for further documents within 14 days, your application will be refused and closed.\n\nImmigration Service Delivery (ISD) is currently experiencing an e",
+          "lastChanged": "2026-10-06T15:46:34.142Z"
         },
         {
           "id": "csep-review",
           "label": "CSEP Review (IRP)",
-          "processingDate": "11 September 2026",
-          "rawText": "processing resubmitted applications received from 11/09/2026.\nIf we receive no response to a request for further documents within 14 days, your application will be refused and closed.\n\nImmigration Service Delivery (ISD) is currently experiencing an e",
-          "lastChanged": "2026-09-29T15:31:15.920Z"
+          "processingDate": "17 September 2026",
+          "rawText": "processing resubmitted applications received from 17/09/2026.\nIf we receive no response to a request for further documents within 14 days, your application will be refused and closed.\n\nImmigration Service Delivery (ISD) is currently experiencing an e",
+          "lastChanged": "2026-10-06T15:46:34.142Z"
         }
       ]
     },
